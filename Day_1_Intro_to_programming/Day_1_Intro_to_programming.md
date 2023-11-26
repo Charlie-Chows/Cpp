@@ -1,4 +1,7 @@
-# Day_1_Intro_to_programming
+# Day_1_Intro_to_programming  
+
+    ## 26 Nov 2023
+
     - How to count the number in ancient times (Stones method)
     - How computers and Number system evolved
     - How Transistor works
